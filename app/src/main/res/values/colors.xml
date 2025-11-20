@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs principales -->
+    <color name="colorPrimary">#0288D1</color>
+    <color name="colorPrimaryDark">#0277BD</color>
+    <color name="colorAccent">#4CAF50</color>
+
+    <!-- Couleurs du thème -->
+    <color name="primaryBlue">#0288D1</color>
+    <color name="primaryBlueDark">#0277BD</color>
+    <color name="lightBlue">#4FC3F7</color>
+    <color name="veryLightBlue">#E1F5FE</color>
+    <color name="backgroundBlue">#B3E5FC</color>
+
+    <!-- Couleurs secondaires -->
+    <color name="successGreen">#4CAF50</color>
+    <color name="warningOrange">#FF9800</color>
+    <color name="dangerRed">#F44336</color>
+
+    <!-- Couleurs de texte -->
+    <color name="textPrimary">#37474F</color>
+    <color name="textSecondary">#78909C</color>
+    <color name="textLight">#B0BEC5</color>
+
+    <!-- Couleurs de fond -->
+    <color name="white">#FFFFFF</color>
+    <color name="backgroundGray">#F5F7FA</color>
+    <color name="dividerGray">#E0E0E0</color>
+
+    <!-- Couleurs pour les graphiques -->
+    <color name="graph_blue">#0288D1</color>
+    <color name="graph_blue_dark">#0277BD</color>
+    <color name="graph_blue_darker">#01579B</color>
+    <color name="graph_blue_light">#4FC3F7</color>
+    <color name="graph_blue_lighter">#29B6F6</color>
+    <color name="graph_green">#4CAF50</color>
+
+    <!-- Gradients -->
+    <color name="gradient_start">#0288D1</color>
+    <color name="gradient_end">#0277BD</color>
+</resources>

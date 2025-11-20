@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">تطبيق الترطيب</string>
+    <string name="splash_text">تطبيق الترطيب</string>
+    <string name="onboarding_title1">اشرب الماء</string>
+    <string name="onboarding_desc1">حافظ على الترطيب يومياً</string>
+    <string name="onboarding_title2">متابعة سهلة</string>
+    <string name="onboarding_desc2">سجل استهلاكك</string>
+    <string name="onboarding_title3">أهداف شخصية</string>
+    <string name="onboarding_desc3">حقق أهدافك اليومية</string>
+
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="current_consumption">لقد شربت: %1$.1f لتر اليوم</string>
+    <string name="add_consumption">إضافة استهلاك</string>
+
+    <string name="goals">الأهداف</string>
+    <string name="set_daily_goal">حدد هدف يومي</string>
+    <string name="progress">تم تحقيق %1$d%% من الهدف</string>
+    <string name="goal_history">تاريخ الأهداف</string>
+
+    <string name="tips">نصائح الترطيب</string>
+    <string name="share_tip">مشاركة النصيحة</string>
+
+    <string name="account">حسابي</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="logout">تسجيل الخروج</string>
+</resources>

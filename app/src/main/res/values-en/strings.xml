@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WaterTime</string>
+    <string name="splash_text">Hydration App</string>
+    <string name="onboarding_title1">Drink Water</string>
+    <string name="onboarding_desc1">Stay hydrated every day</string>
+    <string name="onboarding_title2">Easy Tracking</string>
+    <string name="onboarding_desc2">Log your consumption</string>
+    <string name="onboarding_title3">Personal Goals</string>
+    <string name="onboarding_desc3">Reach your daily targets</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="current_consumption">You drank: %1$.1fL today</string>
+    <string name="add_consumption">Add Consumption</string>
+
+    <string name="goals">Goals</string>
+    <string name="set_daily_goal">Set Daily Goal</string>
+    <string name="progress">%1$d%% of goal reached</string>
+    <string name="goal_history">Goal History</string>
+
+    <string name="tips">Hydration Tips</string>
+    <string name="share_tip">Share Tip</string>
+
+    <string name="account">My Account</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+</resources>

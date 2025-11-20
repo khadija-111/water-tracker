@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme de base -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/backgroundGray</item>
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+    </style>
+
+    <!-- Style pour les titres de cartes -->
+    <style name="CardTitleStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+
+    <!-- Style pour les textes secondaires -->
+    <style name="SecondaryTextStyle">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/textSecondary</item>
+    </style>
+
+    <!-- Style pour les boutons -->
+    <style name="ButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconTint">@android:color/white</item>
+    </style>
+
+        <!-- Style pour les tabs -->
+        <style name="CustomTabText" parent="TextAppearance.Design.Tab">
+            <item name="android:textSize">13sp</item>
+            <item name="android:textStyle">bold</item>
+            <item name="textAllCaps">false</item>
+            <item name="android:letterSpacing">0.03</item>
+        </style>
+
+</resources>
