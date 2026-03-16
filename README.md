@@ -1,4 +1,4 @@
-# Project Structure
+1-# Project Structure
 
 app/
 ├── manifests/
@@ -38,3 +38,27 @@ app/
         ├── fragment_objectifs.xml
         ├── fragment_compte.xml
         └── onborading_page.xml
+
+2-# Technologies Used
+
+- Kotlin
+- Android Studio
+- Room Database
+- WorkManager
+- ViewPager
+- BroadcastReceiver (Notifications)
+- Material Design Components
+- Android Fragments
+- JSON / Local Data Storage
+
+3-# Features
+
+- User authentication (Login & Register)
+- Dashboard to display user information
+- Goals management
+- Water tracking
+- Tips and advice section
+- Notifications system
+- Onboarding screen for new users
+- Local data storage using Room Database
+- Navigation between fragments using ViewPager
